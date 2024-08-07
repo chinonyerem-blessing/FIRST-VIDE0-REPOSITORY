@@ -153,25 +153,28 @@ h2{
     .ho{
         background-color: rgb(41, 41, 41);
         height: 50px;
-        width: 430px;
+        width: 310px;
         display: flex;
     
-        gap: 330px;
+        gap: 220px;
         border-radius: 16px 16px 1px 1px;
         
         
     }
+    .hi{
+        font-size: 8px;
+    }
     .yh button{
-        width: 60px;
+        width: 50px;
         height: 20px;
         border: none;
         background-color: rgb(83, 83, 83);
-        border-radius: 16px 1px 1px 16px ;
+        border-radius: 16px 1px 1px 16px;
     }
     .yh a{
         text-decoration: none;
         color: white;
-        font-size: 9px;
+        font-size: 8px;
     }
     .in button{
         width: 30px;
@@ -182,7 +185,7 @@ h2{
     .in a{
         text-decoration: none;
         color: white;
-        font-size: 9px;
+        font-size: 8px;
     }
     .nh button{
             width: 90px;
@@ -193,10 +196,10 @@ h2{
     .nh a{
         text-decoration: none;
         color: white;
-        font-size: 9px;
+        font-size: 8px;
     }
     .hc button{
-        width: 70px;
+        width: 60px;
         height: 20px;
         border: none;
         background-color: rgb(83, 83, 83);
@@ -204,10 +207,10 @@ h2{
     .hc a{
         text-decoration: none;
         color: white;
-        font-size: 9px;
+        font-size: 8px;
     }
     .ma button{
-        width: 70px;
+        width: 40px;
         height: 20px;
         border: none;
         background-color: rgb(83, 83, 83);
@@ -216,19 +219,20 @@ h2{
     .ma a{
         text-decoration: none;
         color: white;
-        font-size: 9px;
+        font-size: 8px;
     }
     .az{
         display: flex;
+        gap: 5px;
         justify-content: center;
     }
     .ff video{
-        width: 320px;
+        width: 300px;
         height: 120px;
     }
     .mb button{
-        width: 100px;
-        height: 20px;
+        width: 80px;
+        height: 15px;
         background-color: yellow;
         text-align: center;
         border: none;
@@ -238,23 +242,23 @@ h2{
         text-decoration: none;
         color: black;
         font-weight: bold;
-        font-size: 10px;
+        font-size: 8px;
     }
     h2{
         text-align: center;
         padding-top: 10px;
         color: white;
-        font-size: 15px;
+        font-size: 10px;
     }
     .ip{
         text-align: center;
-        font-size: 14px;
+        font-size: 8px;
         padding-top: 10px;
         color: rgb(151, 149, 149);
         padding-bottom: 20px;
-        font-size: 10px;
+        font-size: 8px;
     }
     .nk{
-        margin-top: 60px;
+        margin-top: 160px;
     }
 }
